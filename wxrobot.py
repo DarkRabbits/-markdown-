@@ -30,3 +30,4 @@ status_code, response = send_weixin(productnumber, adjustment_content, invlovedc
 # 打印响应状态码和内容
 print("状态码：", status_code)
 print("响应内容：", response)
+print("输入任意内容结束")
